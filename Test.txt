@@ -1,0 +1,9 @@
+- Tạo 1 project trên github
+	Tạo 1 github repository - nơi chứa code
+	clone project: git clone link_your_repo
+- Viết code
+-
+	git status (kiểm tra trạng thái files)
+	git add . (thêm files)
+	git commit -m "your_message" (tạo nội dung commit)
+	git push origin main
